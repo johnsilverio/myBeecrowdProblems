@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace BeecrowdProbles
+namespace BeecrowdProblems
 {
     class Program
     {
