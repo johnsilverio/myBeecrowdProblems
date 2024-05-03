@@ -13,7 +13,7 @@ namespace BeecrowdProblems
             // Calcula a soma dos dois números.
             int X = A + B;
 
-            // Exibe o resultado da soma formatado.
+            // Exibe o resultado da soma formatado. 
             Console.WriteLine($"X = {X}");
         }
     }
