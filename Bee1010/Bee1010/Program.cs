@@ -20,7 +20,6 @@ namespace BeecrowdProblems
             double valorAPagar = (numeroDePeca1 * valorDaPeca1) + (numeroDePeca2*valorDaPeca2);
 
             Console.WriteLine($"VALOR A PAGAR: R$ {valorAPagar.ToString("F2", CultureInfo.InvariantCulture)}");
-
         }
     }
 }
