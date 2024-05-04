@@ -6,7 +6,7 @@ namespace BeecrowdProblems
     {
         static void Main(string[] args)
         {
-            // Declaração e leitura de dois números inteiros do console.
+            // Declaração e leitura de dois números inteiros do console
             int A = int.Parse(Console.ReadLine());
             int B = int.Parse(Console.ReadLine());
 
