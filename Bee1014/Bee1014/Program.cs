@@ -11,7 +11,7 @@ namespace BeecrowdProblems
             double B = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             double consumoMedio = A / B;
 
-            Console.WriteLine($"{consumoMedio.ToString("F3", CultureInfo.InvariantCulture)} km/1");
+            Console.WriteLine($"{consumoMedio.ToString("F3", CultureInfo.InvariantCulture)} km/l");
         }
     }
 }
