@@ -6,6 +6,7 @@
 *.sln.docstates
 .vs/
 .idea
+global.json
 Bee1001/.idea/.idea.Bee1001/.idea/indexLayout.xml
 Bee1001/.idea/.idea.Bee1001/.idea/vcs.xml
 Bee1017/.idea/.idea.Bee1017/.idea/vcs.xml
